@@ -2,7 +2,7 @@
 <source>
 	<publisher>Sourceo Pte Ltd</publisher>
 	<publisherurl>https://www.sourceo.io</publisherurl>
-	<lastBuildDate>Tue, 12 May 2026 23:46:33 GMT</lastBuildDate>
+	<lastBuildDate>Wed, 13 May 2026 23:45:00 GMT</lastBuildDate>
 	<job>
 		<referencenumber><![CDATA[4226188000034735496]]></referencenumber>
 		<url><![CDATA[https://creatorapp.zohopublic.com/sourceo/sourceo/page-perma/Career_Site_Job_Description/wYaXOVptkQJDhXGj7VG2aAumgBd8JUQfBERFG2h7e3hMuJ790KBKJfHVupP0rMQtPSNFbVHAydsk0apVAd5Q1Rgej3Bdkpjm4FTe?job_id=4226188000034735496]]></url>
@@ -1217,6 +1217,46 @@
 		<email><![CDATA[richard.low@sourceo.io]]></email>
 	</job>
 	<job>
+		<referencenumber><![CDATA[4226188000034064952]]></referencenumber>
+		<url><![CDATA[https://creatorapp.zohopublic.com/sourceo/sourceo/page-perma/Career_Site_Job_Description/wYaXOVptkQJDhXGj7VG2aAumgBd8JUQfBERFG2h7e3hMuJ790KBKJfHVupP0rMQtPSNFbVHAydsk0apVAd5Q1Rgej3Bdkpjm4FTe?job_id=4226188000034064952]]></url>
+		<title><![CDATA[Cloud Infrastructure Engineer – AWS & Systems Automation Specialist]]></title>
+		<date><![CDATA[2026-04-27T00:00:00Z]]></date>
+		<company><![CDATA[Sourceo Pte Ltd]]></company>
+		<city><![CDATA[Singapore]]></city>
+		<state><![CDATA[SG]]></state>
+		<country><![CDATA[SG]]></country>
+		<description><![CDATA[<h3>About the Role</h3>
+<p>Our Client is seeking a skilled Cloud Infrastructure Engineer to oversee the design, deployment, and management of robust cloud environments. This position involves working with a variety of AWS services and supporting both cloud and on-premises systems to ensure seamless operations.</p>
+<h3>Key Responsibilities</h3>
+<ul>
+  <li>Implement and maintain scalable cloud architectures utilizing core AWS components such as EC2, S3, VPC, IAM, CloudWatch, Route 53, RDS, SQS, and SES.</li>
+  <li>Develop automation scripts in Bash to streamline routine tasks like backups, system updates, log management, and network configurations.</li>
+  <li>Assist with troubleshooting and support for on-site Windows Server and Amazon Linux 2023 environments.</li>
+  <li>Create and manage Infrastructure as Code (IaC) using tools like Terraform or CloudFormation to ensure consistent environment provisioning.</li>
+  <li>Configure monitoring solutions and set up alerting mechanisms leveraging AWS native tools such as CloudWatch and CloudTrail.</li>
+  <li>Coordinate backup strategies and disaster recovery plans for both cloud-based and local systems.</li>
+  <li>Partner with development teams to facilitate smooth integration and deployment workflows.</li>
+  <li>Implement security best practices through server hardening and compliance measures.</li>
+  <li>Work alongside security professionals to address vulnerabilities identified during penetration testing, applying necessary fixes and adjustments.</li>
+</ul>
+<h3>Candidate Profile</h3>
+<ul>
+  <li>Hands-on experience managing AWS services, Linux, and Windows server environments, along with network infrastructure.</li>
+  <li>Deep understanding of Amazon Linux 2023 and Windows Server administration tasks.</li>
+  <li>Proficiency in scripting with Bash to automate system operations and maintenance activities.</li>
+  <li>Experience with Infrastructure as Code tools such as Terraform or CloudFormation for environment setup and management.</li>
+  <li>Knowledge of AWS monitoring and alerting tools, with an emphasis on best practices for system observability.</li>
+  <li>Expertise in applying security configurations and hardening servers to meet security standards.</li>
+  <li>Familiarity with vulnerability assessment procedures and remediation strategies.</li>
+  <li>Excellent communication skills and the ability to collaborate effectively with cross-functional teams.</li>
+  <li>Relevant AWS certifications are a plus but not mandatory.</li>
+</ul>
+<h3>Location</h3>
+<p>Position based on Shan Road.</p>]]></description>
+		<jobtype><![CDATA[fulltime]]></jobtype>
+		<email><![CDATA[richard.low@sourceo.io]]></email>
+	</job>
+	<job>
 		<referencenumber><![CDATA[4226188000034064976]]></referencenumber>
 		<url><![CDATA[https://creatorapp.zohopublic.com/sourceo/sourceo/page-perma/Career_Site_Job_Description/wYaXOVptkQJDhXGj7VG2aAumgBd8JUQfBERFG2h7e3hMuJ790KBKJfHVupP0rMQtPSNFbVHAydsk0apVAd5Q1Rgej3Bdkpjm4FTe?job_id=4226188000034064976]]></url>
 		<title><![CDATA[Business Development Executive – Construction & Training Solutions]]></title>
@@ -2167,51 +2207,6 @@
 		<email><![CDATA[richard.low@sourceo.io]]></email>
 	</job>
 	<job>
-		<referencenumber><![CDATA[4226188000034720022]]></referencenumber>
-		<url><![CDATA[https://creatorapp.zohopublic.com/sourceo/sourceo/page-perma/Career_Site_Job_Description/wYaXOVptkQJDhXGj7VG2aAumgBd8JUQfBERFG2h7e3hMuJ790KBKJfHVupP0rMQtPSNFbVHAydsk0apVAd5Q1Rgej3Bdkpjm4FTe?job_id=4226188000034720022]]></url>
-		<title><![CDATA[Senior Mechanical Design Engineer – Innovative Assembly Solutions]]></title>
-		<date><![CDATA[2026-04-27T00:00:00Z]]></date>
-		<company><![CDATA[Sourceo Pte Ltd]]></company>
-		<city><![CDATA[Singapore]]></city>
-		<state><![CDATA[SG]]></state>
-		<country><![CDATA[SG]]></country>
-		<description><![CDATA[<h3>About the Role</h3>
-<ul>
-  <li>Design and develop mechanical components and assemblies to address technical challenges at both sub-assembly and full-system levels.</li>
-  <li>Create detailed drawings for manufacturing parts, ensuring clarity and precision for production teams.</li>
-  <li>Translate customer specifications into comprehensive technical requirements through thorough testing and analysis.</li>
-  <li>Assess potential risks associated with proposed solutions to recommend the most reliable options.</li>
-  <li>Generate detailed documentation including design reports, test summaries, and related technical files.</li>
-  <li>Assist in the fabrication process, including welding, machining, and assembly activities, to ensure quality standards are maintained.</li>
-  <li>Perform structural evaluations on components and assemblies to verify compliance with design criteria.</li>
-  <li>Select appropriate materials, actuators, fasteners, and other components to fulfill design specifications.</li>
-  <li>Design hydraulic systems incorporating pumps, valves, cylinders, hoses, and safety mechanisms.</li>
-  <li>Apply engineering principles creatively to develop innovative solutions that meet project objectives.</li>
-  <li>Develop prototypes and proof-of-concept models to validate design concepts.</li>
-</ul>
-<h3>Qualifications & Experience</h3>
-<ul>
-  <li>A bachelor's degree in mechanical engineering or a related field.</li>
-  <li>At least two years of experience in mechanical component design or related roles.</li>
-  <li>Proficiency with CAD tools, particularly SolidWorks, for detailed modeling and drafting.</li>
-  <li>Solid understanding of sheet metal fabrication, weldments, truss structures, and machine parts.</li>
-  <li>Knowledge of design for manufacturability, assembly, and ingress protection standards.</li>
-  <li>Experience with motion control systems and kinematic analysis.</li>
-  <li>Familiarity with finite element analysis (FEA) under static loading conditions.</li>
-  <li>Additional expertise in hydraulics, mobile systems, or vehicle-mounted equipment is advantageous.</li>
-</ul>
-<h3>What We Offer</h3>
-<ul>
-  <li>Opportunities to work on cutting-edge projects that challenge your engineering skills.</li>
-  <li>A collaborative environment that fosters innovation and continuous learning.</li>
-  <li>Competitive compensation packages aligned with industry standards.</li>
-  <li>Flexible work arrangements to support work-life balance.</li>
-  <li>Access to professional development resources and training programs.</li>
-</ul>]]></description>
-		<jobtype><![CDATA[fulltime]]></jobtype>
-		<email><![CDATA[richard.low@sourceo.io]]></email>
-	</job>
-	<job>
 		<referencenumber><![CDATA[4226188000034724007]]></referencenumber>
 		<url><![CDATA[https://creatorapp.zohopublic.com/sourceo/sourceo/page-perma/Career_Site_Job_Description/wYaXOVptkQJDhXGj7VG2aAumgBd8JUQfBERFG2h7e3hMuJ790KBKJfHVupP0rMQtPSNFbVHAydsk0apVAd5Q1Rgej3Bdkpjm4FTe?job_id=4226188000034724007]]></url>
 		<title><![CDATA[Property Operations Coordinator – Commercial Real Estate]]></title>
@@ -2247,89 +2242,6 @@
 </ul>
 <h3>What We Offer</h3>
 <p>Our Client values the well-being of their team members and provides a comprehensive benefits package that supports physical, mental, and emotional health. Alongside standard leave entitlements and performance incentives, employees enjoy special privileges such as additional personal days, wellness programs, staff discounts at various outlets, and preferential rates at affiliated accommodations worldwide. The organization also encourages community engagement through diverse volunteer activities, fostering a sense of purpose and connection.</p>]]></description>
-		<jobtype><![CDATA[fulltime]]></jobtype>
-		<email><![CDATA[richard.low@sourceo.io]]></email>
-	</job>
-	<job>
-		<referencenumber><![CDATA[4226188000034728006]]></referencenumber>
-		<url><![CDATA[https://creatorapp.zohopublic.com/sourceo/sourceo/page-perma/Career_Site_Job_Description/wYaXOVptkQJDhXGj7VG2aAumgBd8JUQfBERFG2h7e3hMuJ790KBKJfHVupP0rMQtPSNFbVHAydsk0apVAd5Q1Rgej3Bdkpjm4FTe?job_id=4226188000034728006]]></url>
-		<title><![CDATA[Senior Quality Assurance Specialist for Robotics & Automation Projects]]></title>
-		<date><![CDATA[2026-04-27T00:00:00Z]]></date>
-		<company><![CDATA[Sourceo Pte Ltd]]></company>
-		<city><![CDATA[Singapore]]></city>
-		<state><![CDATA[SG]]></state>
-		<country><![CDATA[SG]]></country>
-		<description><![CDATA[<h3>Join Our Client as a Quality Assurance Specialist in Robotics and Vehicle Technologies</h3>
-<p>Our Client is seeking a dedicated QA professional to uphold the highest standards of product excellence across innovative robotics, automation, and specialized vehicle initiatives. This role emphasizes practical involvement in testing, analyzing, and refining products to ensure they align with rigorous quality benchmarks.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-  <li><b>Design and execute comprehensive testing strategies:</b> Develop detailed test plans and carry out systematic evaluations of components and finished products to verify compliance with quality criteria.</li>
-  <li><b>Implement testing procedures:</b> Establish and follow protocols for different phases of product development, utilizing both manual inspections and automated testing tools.</li>
-  <li><b>Detect and address issues:</b> Spot defects or irregularities in products or processes, working closely with development teams to understand specifications and embed quality considerations throughout the lifecycle.</li>
-  <li><b>Contribute to ongoing enhancements:</b> Engage in initiatives aimed at boosting product quality and manufacturing efficiency by analyzing feedback and data trends.</li>
-  <li><b>Maintain detailed documentation:</b> Record testing methodologies, results, and findings accurately, preparing comprehensive reports that adhere to industry standards and internal policies.</li>
-  <li><b>Foster cross-team collaboration:</b> Coordinate with design, production, and software teams to integrate quality assurance practices at every development stage, ensuring clear communication of quality metrics and progress.</li>
-</ul>
-<h3>Qualifications & Skills</h3>
-<ul>
-  <li>Bachelor’s degree in Engineering, Quality Management, or a related technical discipline.</li>
-  <li>Demonstrated experience in quality assurance roles within robotics, automation, or vehicle engineering sectors.</li>
-  <li>Proficiency with quality testing tools, statistical analysis, and industry-standard methodologies.</li>
-  <li>Strong problem-solving capabilities with an eye for detail and organizational efficiency.</li>
-  <li>Excellent communication skills to effectively liaise with multidisciplinary teams and stakeholders.</li>
-  <li>Knowledge of relevant industry regulations and standards is advantageous.</li>
-</ul>
-<h3>What Our Client Offers</h3>
-<ul>
-  <li>Opportunities to work on cutting-edge projects in robotics and automation fields.</li>
-  <li>A collaborative environment that values innovation and continuous learning.</li>
-  <li>Competitive compensation packages aligned with industry standards.</li>
-  <li>Support for professional development and skill enhancement.</li>
-  <li>Flexible work arrangements to promote work-life balance.</li>
-</ul>]]></description>
-		<jobtype><![CDATA[fulltime]]></jobtype>
-		<email><![CDATA[richard.low@sourceo.io]]></email>
-	</job>
-	<job>
-		<referencenumber><![CDATA[4226188000034728008]]></referencenumber>
-		<url><![CDATA[https://creatorapp.zohopublic.com/sourceo/sourceo/page-perma/Career_Site_Job_Description/wYaXOVptkQJDhXGj7VG2aAumgBd8JUQfBERFG2h7e3hMuJ790KBKJfHVupP0rMQtPSNFbVHAydsk0apVAd5Q1Rgej3Bdkpjm4FTe?job_id=4226188000034728008]]></url>
-		<title><![CDATA[Electrical Systems Engineer – Power Electronics & Control Panel Design]]></title>
-		<date><![CDATA[2026-04-27T00:00:00Z]]></date>
-		<company><![CDATA[Sourceo Pte Ltd]]></company>
-		<city><![CDATA[Singapore]]></city>
-		<state><![CDATA[SG]]></state>
-		<country><![CDATA[SG]]></country>
-		<description><![CDATA[<h3>Join Our Client as an Electrical Systems Specialist</h3>
-<p>We are seeking a dedicated professional to become a key member of our electrical engineering team, focusing on innovative electronics and electrical solutions. In this role, you will be instrumental in designing control panels, developing power electronic circuits, and working on battery-powered device applications. Your expertise in electrical integration will be vital to project success.</p>
-<p>The position involves close collaboration with cross-disciplinary teams, requiring proactive communication and coordination. You will be responsible for delivering high-quality work within established timelines and budgets, ensuring project milestones are met efficiently.</p>
-<h3>Core Responsibilities</h3>
-<ul>
-  <li>Initiate early-stage feasibility assessments to guide project development</li>
-  <li>Translate client needs into detailed electrical specifications</li>
-  <li>Design and develop electrical schematics, control panels, wiring harnesses, and cable looms</li>
-  <li>Create detailed instructions for manufacturing and assist in resolving production challenges</li>
-  <li>Develop and implement testing procedures for electrical systems to ensure reliability</li>
-  <li>Diagnose and troubleshoot electrical issues across various systems</li>
-  <li>Prepare comprehensive bills of materials (BOM) for electrical components</li>
-  <li>Integrate IoT modules and power management units into designs</li>
-  <li>Assess safety and operational requirements to ensure compliance with industry standards</li>
-</ul>
-<h3>Candidate Profile</h3>
-<ul>
-  <li>Holding a degree in Electrical or Electronics Engineering</li>
-  <li>Possessing at least two years of relevant industry experience</li>
-  <li>Strong foundational knowledge in electrical and electronic principles</li>
-  <li>Expertise in AC power electronics and associated control circuitry</li>
-  <li>Ability to interpret engineering drawings and technical documents accurately</li>
-  <li>Experience working with industrial electrical standards and safety protocols</li>
-  <li>Proficient in CAD tools such as Altium Designer and Eplan for schematic development</li>
-  <li>Excellent communication skills to collaborate effectively within diverse teams</li>
-  <li>Strong analytical mindset with problem-solving capabilities for quick issue resolution</li>
-  <li>Comfortable managing multiple projects simultaneously and meeting deadlines</li>
-  <li>Proficiency in MS Office applications including Word, Excel, and PowerPoint</li>
-</ul>
-<h3>What We Offer</h3>
-<p>Our client provides a dynamic work environment that encourages innovation and professional growth. Employees benefit from flexible work arrangements, comprehensive health programs, and opportunities for continuous learning and development. Join a team committed to pushing technological boundaries and making impactful contributions to the industry.</p>]]></description>
 		<jobtype><![CDATA[fulltime]]></jobtype>
 		<email><![CDATA[richard.low@sourceo.io]]></email>
 	</job>
@@ -4019,43 +3931,6 @@
 		<email><![CDATA[richard.low@sourceo.io]]></email>
 	</job>
 	<job>
-		<referencenumber><![CDATA[4226188000035293546]]></referencenumber>
-		<url><![CDATA[https://creatorapp.zohopublic.com/sourceo/sourceo/page-perma/Career_Site_Job_Description/wYaXOVptkQJDhXGj7VG2aAumgBd8JUQfBERFG2h7e3hMuJ790KBKJfHVupP0rMQtPSNFbVHAydsk0apVAd5Q1Rgej3Bdkpjm4FTe?job_id=4226188000035293546]]></url>
-		<title><![CDATA[Technical Documentation Specialist for Engineering Lifecycle Support]]></title>
-		<date><![CDATA[2026-04-27T00:00:00Z]]></date>
-		<company><![CDATA[Sourceo Pte Ltd]]></company>
-		<city><![CDATA[Singapore]]></city>
-		<state><![CDATA[SG]]></state>
-		<country><![CDATA[SG]]></country>
-		<description><![CDATA[<h3>Join Our Client as a Technical Documentation Expert in Engineering Systems</h3>
-<p>We are seeking a detail-oriented professional to oversee the creation and upkeep of comprehensive technical and logistical documents that underpin complex engineering projects, including robotics, vehicle systems, and defense technologies. Your role will be pivotal in ensuring all documentation remains precise, compliant, and aligned with operational needs throughout the system's lifecycle.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-  <li><b>Creating and Updating Technical Resources:</b> Develop detailed user guides, maintenance manuals, technical reference materials, and standard operating procedures (SOPs). Convert engineering insights into clear, organized documentation that supports various stakeholders.</li>
-  <li><b>Supporting System Lifecycle Activities:</b> Facilitate logistics support functions such as planning maintenance schedules, managing spare parts and provisioning documents, and documenting system reliability and maintainability aspects. Ensure documentation remains relevant from deployment through decommissioning.</li>
-  <li><b>Collaborating Across Teams:</b> Work closely with engineers from different disciplines, project coordinators, and operations teams to gather technical data and verify the accuracy of documentation.</li>
-  <li><b>Ensuring Compliance and Standards:</b> Maintain documentation standards that meet client specifications, internal protocols, and regulatory requirements. Keep track of document versions and ensure traceability for audits and reviews.</li>
-  <li><b>Managing Document Systems:</b> Oversee repositories to guarantee proper version control, timely updates, and stakeholder accessibility, supporting smooth audit processes and information retrieval.</li>
-</ul>
-<h3>Ideal Candidate Profile</h3>
-<ul>
-  <li>Possesses a bachelor’s degree in engineering or a related technical discipline.</li>
-  <li>Has demonstrated experience in preparing logistics and technical documentation for complex systems.</li>
-  <li>Excels in technical writing with the ability to distill complex engineering concepts into understandable language.</li>
-  <li>Displays strong communication skills and the ability to coordinate with diverse teams effectively.</li>
-  <li>Highly organized with meticulous attention to detail and document management best practices.</li>
-</ul>
-<h3>What Our Client Offers</h3>
-<ul>
-  <li>Opportunities to work on cutting-edge engineering projects with a focus on innovation and quality.</li>
-  <li>A collaborative environment that values continuous learning and professional growth.</li>
-  <li>Competitive compensation packages complemented by comprehensive benefits designed to support your well-being.</li>
-  <li>Flexible work arrangements to promote work-life balance and personal development.</li>
-</ul>]]></description>
-		<jobtype><![CDATA[fulltime]]></jobtype>
-		<email><![CDATA[richard.low@sourceo.io]]></email>
-	</job>
-	<job>
 		<referencenumber><![CDATA[4226188000035545522]]></referencenumber>
 		<url><![CDATA[https://creatorapp.zohopublic.com/sourceo/sourceo/page-perma/Career_Site_Job_Description/wYaXOVptkQJDhXGj7VG2aAumgBd8JUQfBERFG2h7e3hMuJ790KBKJfHVupP0rMQtPSNFbVHAydsk0apVAd5Q1Rgej3Bdkpjm4FTe?job_id=4226188000035545522]]></url>
 		<title><![CDATA[Procurement Specialist – Vendor Relations & Purchasing Operations]]></title>
@@ -4621,46 +4496,6 @@
 <li>Competitive remuneration package aligned with industry standards.</li>
 <li>Flexible work arrangements to promote work-life balance.</li>
 <li>Location-based benefits and access to modern facilities at our Neythal Road office.</li>
-</ul>]]></description>
-		<jobtype><![CDATA[fulltime]]></jobtype>
-		<email><![CDATA[richard.low@sourceo.io]]></email>
-	</job>
-	<job>
-		<referencenumber><![CDATA[4226188000035704050]]></referencenumber>
-		<url><![CDATA[https://creatorapp.zohopublic.com/sourceo/sourceo/page-perma/Career_Site_Job_Description/wYaXOVptkQJDhXGj7VG2aAumgBd8JUQfBERFG2h7e3hMuJ790KBKJfHVupP0rMQtPSNFbVHAydsk0apVAd5Q1Rgej3Bdkpjm4FTe?job_id=4226188000035704050]]></url>
-		<title><![CDATA[Facilities Operations Manager – Building & Maintenance Services]]></title>
-		<date><![CDATA[null]]></date>
-		<company><![CDATA[Sourceo Pte Ltd]]></company>
-		<city><![CDATA[Singapore]]></city>
-		<state><![CDATA[SG]]></state>
-		<country><![CDATA[SG]]></country>
-		<description><![CDATA[<h3>Key Responsibilities and Duties</h3>
-<ul>
-  <li>Coordinate and oversee the activities of internal teams and external contractors to ensure seamless facility operations.</li>
-  <li>Compile and maintain comprehensive technical documentation, including specifications, operational manuals, drawings, and scheduled maintenance plans from all service providers.</li>
-  <li>Utilize specialized software and spreadsheets to monitor and track ongoing maintenance schedules and activities.</li>
-  <li>Handle urgent repairs, troubleshoot issues, and manage breakdown responses efficiently, providing on-site technical support when needed.</li>
-  <li>Serve as the primary liaison among various subcontractors and vendors, ensuring clear communication and coordination.</li>
-  <li>Oversee the management of building and facilities service agreements, ensuring contractual obligations are met to achieve high service standards and customer satisfaction.</li>
-  <li>Generate detailed technical reports and summaries for review by senior management or the Board.</li>
-  <li>Supervise health and safety protocols, ensuring all risk assessments and permits-to-work are properly submitted, approved, and documented before work commences.</li>
-  <li>Conduct regular inspections, including statutory checks, and prepare management reports based on findings.</li>
-  <li>Manage customer service issues, ensuring prompt and professional responses to tenants, staff, or visitors, and closing action items efficiently.</li>
-  <li>Support daily operational activities of the property, including administrative and office management functions.</li>
-  <li>Assist in preparing monthly progress updates, verifying work quality, and managing variation orders as needed.</li>
-  <li>Ensure compliance with safety standards and oversee the proper filing of all safety-related documentation.</li>
-  <li>Perform routine inspections and statutory checks, providing comprehensive reports to relevant stakeholders.</li>
-  <li>Handle administrative support tasks and office operations to facilitate smooth property management.</li>
-  <li>Participate in any additional duties necessary for the effective running of the facility.</li>
-</ul>
-<h3>Candidate Profile and Requirements</h3>
-<ul>
-  <li>Degree in Facility Management, Mechanical Engineering, Electrical Engineering, or Building Services from an accredited institution.</li>
-  <li>Minimum of five years’ experience in facilities management, preferably within a service provider environment.</li>
-  <li>Strong interpersonal skills with excellent verbal and written communication abilities.</li>
-  <li>Solid understanding of maintenance procedures, contract management, and safety standards.</li>
-  <li>Relevant certifications such as FSM, SCEM, or other safety and facilities management credentials are advantageous.</li>
-  <li>Location: Marina Barrage</li>
 </ul>]]></description>
 		<jobtype><![CDATA[fulltime]]></jobtype>
 		<email><![CDATA[richard.low@sourceo.io]]></email>
@@ -5453,6 +5288,119 @@
 <li>Leadership qualities that inspire team cohesion and high performance.</li>
 </ul>
 <p>Our Client is seeking a dedicated professional to lead their environmental chemistry testing operations, ensuring quality, safety, and growth. If you possess the expertise and drive to excel in this role, we encourage you to apply.</p>]]></description>
+		<jobtype><![CDATA[fulltime]]></jobtype>
+		<email><![CDATA[richard.low@sourceo.io]]></email>
+	</job>
+	<job>
+		<referencenumber><![CDATA[4226188000035788601]]></referencenumber>
+		<url><![CDATA[https://creatorapp.zohopublic.com/sourceo/sourceo/page-perma/Career_Site_Job_Description/wYaXOVptkQJDhXGj7VG2aAumgBd8JUQfBERFG2h7e3hMuJ790KBKJfHVupP0rMQtPSNFbVHAydsk0apVAd5Q1Rgej3Bdkpjm4FTe?job_id=4226188000035788601]]></url>
+		<title><![CDATA[Senior Defense Logistics and Sustainment Program Manager]]></title>
+		<date><![CDATA[null]]></date>
+		<company><![CDATA[Sourceo Pte Ltd]]></company>
+		<city><![CDATA[Singapore]]></city>
+		<state><![CDATA[SG]]></state>
+		<country><![CDATA[SG]]></country>
+		<description><![CDATA[<h3>Overview of the Role</h3>
+<p>Our Client is seeking an experienced Logistics and Support Systems Lead responsible for orchestrating comprehensive support activities across defense-related projects. This position ensures that systems, vehicles, and equipment maintain optimal operational readiness, reliability, and lifecycle support, aligning with client specifications. The role involves close collaboration with engineering, operations, supply chain, quality assurance, and customer teams to develop a seamless support ecosystem from initial design through active service.</p>
+<h3>Key Responsibilities</h3>
+<ul>
+  <li><b>Strategic Planning & Support Framework Development</b>
+    <ul>
+      <li>Design and implement overarching support strategies tailored for defense initiatives</li>
+      <li>Draft and oversee the execution of detailed support plans (ILSP)</li>
+      <li>Ensure adherence to contractual and quality standards set by clients</li>
+      <li>Define lifecycle management concepts from inception to disposal</li>
+      <li>Establish maintenance philosophies covering organizational, intermediate, and depot levels</li>
+      <li>Participate in early-stage design reviews to embed supportability considerations</li>
+    </ul>
+  </li>
+  <li><b>Reliability and Performance Optimization</b>
+    <ul>
+      <li>Conduct reliability, availability, and maintainability assessments for systems and components</li>
+      <li>Calculate key metrics such as MTBF, MTTR, and MTTF to inform maintenance strategies</li>
+      <li>Perform failure analysis and reliability growth tracking</li>
+      <li>Lead Failure Modes, Effects, and Criticality Analyses (FMECA)</li>
+      <li>Implement Reliability Centered Maintenance (RCM) studies to enhance system dependability</li>
+      <li>Investigate root causes of field failures and recommend design improvements</li>
+    </ul>
+  </li>
+  <li><b>Maintenance Strategy & Planning</b>
+    <ul>
+      <li>Develop preventive, corrective, and predictive maintenance plans</li>
+      <li>Set scheduled inspection and maintenance intervals</li>
+      <li>Define detailed maintenance tasks and resource requirements</li>
+      <li>Design workshop layouts, repair bays, and storage facilities</li>
+      <li>Determine calibration needs and support equipment specifications</li>
+    </ul>
+  </li>
+  <li><b>Spare Parts and Supply Chain Coordination</b>
+    <ul>
+      <li>Create initial provisioning and recommended spare parts lists</li>
+      <li>Plan for inventory optimization and spare parts lay-in strategies</li>
+      <li>Define strategies for repairable versus consumable components</li>
+      <li>Forecast demand and manage lifecycle spare requirements</li>
+      <li>Collaborate with procurement teams to ensure support readiness</li>
+    </ul>
+  </li>
+  <li><b>Technical Documentation & Publication Management</b>
+    <ul>
+      <li>Lead the development of maintenance manuals, operator guides, and parts catalogs</li>
+      <li>Ensure all technical documents comply with industry and defense standards</li>
+      <li>Manage document revisions and change control processes</li>
+      <li>Develop troubleshooting guides and service bulletins to support field teams</li>
+    </ul>
+  </li>
+  <li><b>Training & Capability Building</b>
+    <ul>
+      <li>Design and implement training programs for operators and maintenance personnel</li>
+      <li>Conduct training needs assessments to identify skill gaps</li>
+      <li>Develop comprehensive training materials, including lesson plans and assessments</li>
+      <li>Support train-the-trainer initiatives to foster long-term capability growth</li>
+    </ul>
+  </li>
+  <li><b>Post-Delivery Support & Service Operations</b>
+    <ul>
+      <li>Manage after-sales support activities, including issue tracking and fault management</li>
+      <li>Establish protocols for incident reporting and escalation</li>
+      <li>Coordinate warranty and field service operations</li>
+      <li>Monitor fleet health metrics and support performance indicators</li>
+    </ul>
+  </li>
+  <li><b>Stakeholder Engagement & Customer Relations</b>
+    <ul>
+      <li>Serve as the primary point of contact for client support teams</li>
+      <li>Present support status, reliability metrics, and sustainment plans</li>
+      <li>Assist in preparing technical proposals and supporting audits</li>
+      <li>Participate in review meetings, acceptance testing, and sustainment discussions</li>
+      <li>Manage relationships with subcontractors and original equipment manufacturers</li>
+    </ul>
+  </li>
+  <li><b>Leadership & Team Development</b>
+    <ul>
+      <li>Guide and mentor a team of approximately five specialists in support functions</li>
+      <li>Allocate responsibilities across RAM, spare parts, documentation, and field support</li>
+      <li>Foster continuous improvement and best practices within the team</li>
+      <li>Enhance team skills and support professional growth initiatives</li>
+    </ul>
+  </li>
+</ul>
+<h3>Qualifications & Experience</h3>
+<ul>
+  <li><b>Educational Background:</b> Degree in Mechanical, Electrical, Systems, Industrial, or Logistics Engineering, or a related discipline</li>
+  <li><b>Professional Experience:</b> 8 to 15 years working on defense projects, aerospace, military vehicles, or complex engineering systems</li>
+  <li><b>Specialized Knowledge:</b> Deep understanding of ILS methodologies, RAM engineering, and lifecycle management standards</li>
+  <li><b>Standards Familiarity:</b> Knowledge of MIL-STD, DEF-STAN, ASD standards, and defense documentation protocols</li>
+  <li><b>Technical Skills:</b> Experience with FMECA, RCM, LORA, MTA, configuration management, and lifecycle cost analysis</li>
+  <li><b>Tools & Systems:</b> Proficiency with ERP, CMMS, and maintenance ticketing platforms</li>
+</ul>
+<h3>Desired Attributes</h3>
+<ul>
+  <li>Strong leadership capabilities with excellent stakeholder management skills</li>
+  <li>Effective communicator with client-facing experience</li>
+  <li>Commercial acumen related to lifecycle support contracts</li>
+  <li>Ability to collaborate seamlessly across engineering and operational teams</li>
+  <li>Analytical mindset with robust problem-solving skills</li>
+</ul>]]></description>
 		<jobtype><![CDATA[fulltime]]></jobtype>
 		<email><![CDATA[richard.low@sourceo.io]]></email>
 	</job>
